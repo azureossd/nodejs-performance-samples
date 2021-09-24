@@ -35,7 +35,9 @@ This is a JavaScript Function app that generates High CPU and Memory and it is i
         }
     ```
 
-- If you are profiling in Azure, add this app setting `languageWorkers:node:arguments` with value `--cpu-prof`.
+- If you are profiling in **Azure App Service Windows**, add this app setting `languageWorkers:node:arguments` with value `--cpu-prof`.
+
+- If you are profiling in **Azure App Service Linux**, add this app setting `languageWorkers__node__arguments` with value `--cpu-prof-dir "/home/LogFiles/" --cpu-prof`.
 
 ### Profiling CPU
 
