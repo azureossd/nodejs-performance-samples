@@ -15,6 +15,10 @@ This is a JavaScript Function app that generates High CPU and Memory and it is i
 **High Memory**
 - To consume memory you can request the following route: **`/api/profile/memory`** , this endpoint will consume 200MB in each request.
 
+**Ending nodejs process**
+
+- To end nodejs process you can request the following route : **`/api/profile/end`**. Then you need to restart the function.
+
 ---
 ### Profiling locally vs azure
 
