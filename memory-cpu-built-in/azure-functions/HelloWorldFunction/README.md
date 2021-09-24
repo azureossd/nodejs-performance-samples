@@ -84,5 +84,5 @@ You have two options to profile high CPU:
         }
     ```
 
-- Then download the `.cpuprofile` through Kudu and use `chrome://inspect` and `Open dedicated DevTools for Node` then click on `Memory` tab to analyze it.
+- Then download the `.heapprofile` through Kudu and use `chrome://inspect` and `Open dedicated DevTools for Node` then click on `Memory` tab to analyze it.
 
