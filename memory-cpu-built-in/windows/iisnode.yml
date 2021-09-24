@@ -1,0 +1,6 @@
+loggingEnabled: true
+nodeProcessCommandLine: node --cpu-prof server.js # For Node.js >=12
+#nodeProcessCommandLine: node --cpu-prof-dir "d:/home/LogFiles/" --cpu-prof-name "NewCPU.cpuprofile" --cpu-prof server.js
+#nodeProcessCommandLine: node --heap-prof server.js # For Node.js >=12
+#nodeProcessCommandLine: node --heap-prof-dir "d:/home/LogFiles/" --heap-prof-name "NewHeap.cpuprofile" --heap-prof server.js
+#nodeProcessCommandLine: node --prof server.js 

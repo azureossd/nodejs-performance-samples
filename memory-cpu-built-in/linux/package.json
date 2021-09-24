@@ -1,0 +1,12 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Sample app replicating High CPU and Memory on Windows",
+  "main": "server.js",
+  "author": "azureossd",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "microseconds": "^0.2.0"
+  }
+}

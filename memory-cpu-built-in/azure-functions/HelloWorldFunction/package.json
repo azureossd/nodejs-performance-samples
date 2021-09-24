@@ -1,0 +1,9 @@
+{
+  "name": "javascript-function-profilers",
+  "version": "0.1",
+  "description": "Function example for testing profilers",
+  "scripts" : {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "azureossd"
+}
