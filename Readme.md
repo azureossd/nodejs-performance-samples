@@ -10,12 +10,9 @@ In this repository you can find bad performance samples for two different ways t
 ## Profiling Azure Functions
 
 You can find several bad performance samples for profiling JavaScript functions.
-
  - [HelloWorld (Memory and CPU, Unhandled exceptions)](https://github.com/azureossd/nodejs-performance-samples/tree/master/memory-cpu-built-in/azure-functions/HelloWorldFunction)
-
  - [Performance samples (Sync, Async, Unhandled exceptions, Memory and CPU)](https://github.com/azureossd/nodejs-performance-samples/tree/master/memory-cpu-built-in/azure-functions/Performance)
-
-  - [Performance samples v4 schema (Sync, Async, Unhandled exceptions, Memory and CPU)](https://github.com/azureossd/nodejs-performance-samples/tree/master/memory-cpu-built-in/azure-functions/Performancev4)
+  - [Performance samples v4 schema (Sync, Async, Unhandled exceptions, Memory and CPU)](https://github.com/azureossd/nodejs-performance-samples/tree/master/memory-cpu-built-in/azure-functions/Performance-v4)
 
   ## References
   - [Troubleshooting Node.js High Memory scenarios in App Service Linux](https://azureossd.github.io/2021/12/10/Troubleshooting-NodeJS-High-Memory-scenarios-in-App-Service-Linux/index.html)
